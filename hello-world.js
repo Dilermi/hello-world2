@@ -1,1 +1,2 @@
 console.log("Hello world");
+// Por exemplo, eu editei o arquivo aqui, rodei ele para testar, funcionou ai eu salvei ele(ctrl s) depois eu vou la no git bash e dou um 'git commit -m "descrição da alteração"'
